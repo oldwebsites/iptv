@@ -1,0 +1,26 @@
+{
+  "spider": "",
+  "wallpaper": "https://bing.img.run/1920x1080.php",
+  "warning": "我的私有自动更新源",
+  
+  // 核心设置：全局 User-Agent
+  "ua": "okhttp/3.15", 
+
+  "lives": [
+    {
+      "group": "自动更新源",
+      "type": 0,
+      "channels": [
+        {
+          "name": "我的直播",
+          "urls": [
+            "https://cdn.jsdelivr.net/gh/oldwebsites/iptv@main/result.m3u"
+          ],
+          // 引用刚才 Gather 节目单
+          "epg": "https://epg.iill.top/epg.xml.gz",
+          "logo": "https://epg.iill.top/logo/{name}.png"
+        }
+      ]
+    }
+  ]
+}
