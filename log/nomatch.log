@@ -4,38 +4,15 @@ CGTN西语,rtp://239.3.1.217:4220
 CGTN法语,rtp://239.3.1.218:4220
 CGTN阿语,rtp://239.3.1.219:4220
 CGTN俄语,rtp://239.3.1.220:4220
-ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-Ando TV,http://play.kankanlive.com/live/1711956137852982.m3u8
-Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
-Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
-Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-Ando TV,http://play.kankanlive.com/live/1711956137852982.m3u8
-Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
-Beijing Traffic Radio TV [Geo-blocked],http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
-Beijing Youth Radio [Geo-blocked],http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
-Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
 兵团卫视,rtp://239.3.1.168:8196
 北京文艺,rtp://239.3.1.242:8000
-BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
-BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
-CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
-BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
-BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
 体育休闲,rtp://239.3.1.120:8000
 北京影视,rtp://239.3.1.158:8000
 北京新闻,rtp://239.3.1.159:8000
-CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
 北京财经,rtp://239.3.1.116:8000
 北京生活,rtp://239.3.1.117:8000
-Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
 北京国际,rtp://239.3.1.235:8000
 纪实科教,rtp://239.3.1.115:8000
-BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
-BRTV 北京卫视,http://118.81.195.79:9003/hls/20/index.m3u8
 卡酷少儿,rtp://239.3.1.189:8000
 金鹰纪实,rtp://239.3.1.58:8156
 茶友频道,rtp://239.3.1.165:8001
@@ -48,55 +25,13 @@ CCTV-4K,rtp://239.3.1.245:2000
 睛彩篮球,rtp://239.3.1.126:8001
 睛彩青少,rtp://239.3.1.127:8001
 睛彩广场舞,rtp://239.3.1.128:8001
-CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-CGTN (1080p),https://english-livebkali.cgtn.com/live/encgtn.m3u8
-CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 爱上4K,rtp://239.3.1.236:2000
 4K超清,rtp://239.3.1.249:8001
 城市剧场,rtp://239.3.1.67:4120
 军旅剧场,rtp://239.3.1.68:4120
 古装剧场,rtp://239.3.1.69:4120
 精选高清,rtp://239.3.1.74:4120
-Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
-Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
-Documentary Humanities Channel,http://49.113.179.174:4022/udp/238.125.3.135:5140
-Ecology & Environment TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
-Foshan News TV,http://dslive.grtn.cn/fszh/sd/live.m3u8
-Game Channel,http://49.113.179.174:4022/udp/238.125.1.36:5140
-Golden Eagle Cartoon,http://1.24.190.98:10080/hls/51/index.m3u8
-Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
-Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
 武侠剧场,rtp://239.3.1.90:4120
-Hunan Ping Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
-Hunan TV (2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-JiaJia Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
-Jiangxi Children's Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
-Jiangxi City Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
-Jiangxi Economy & Life Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
-Jiangxi Movie Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
-Jiangxi Public & Agriculture Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
-Jilin City Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
-Jilin Lifestyle Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
-Jilin Movie Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
-Jilin Rural Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
-Laughter Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
-Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
-Nanchang News & Generalist Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
-Nei Monggol TV,http://1.24.190.98:10080/hls/39/index.m3u8
-Nei Monggol TV,http://49.113.179.174:4022/udp/238.125.7.93:5140
-Nei Monggol TV,http://110.19.156.172:9901/tsfile/live/1003_1.m3u8
-Nei Monggol TV 2 Mongolian Culture Channel,http://1.24.190.98:10080/hls/40/index.m3u8
-Ecology & Environment TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
-Game Channel,http://49.113.179.174:4022/udp/238.125.1.36:5140
-Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
-Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
-Home Plus,https://homeplushls.wns.live/hls/stream.m3u8
-Hunan Ping Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
-Hunan TV (2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-JiaJia Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
 喜剧影院,rtp://239.3.1.91:4120
 ,动作影院,rtp://239.3.1.92:4120
 家庭影院,rtp://239.3.1.93:4120
@@ -108,5 +43,3 @@ group-title="数字" zz-definition="HD",重温经典,rtp://239.3.1.25:8001
 热播剧场,rtp://239.3.1.194:9020
 魅力时尚,rtp://239.3.1.196:9012
 少儿动画,rtp://239.3.1.199:9000
-Jiangxi Children's Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
-QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
