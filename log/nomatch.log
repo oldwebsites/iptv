@@ -30,11 +30,6 @@ CCTV-4K,rtp://239.3.1.245:2000
 城市剧场,rtp://239.3.1.67:4120
 军旅剧场,rtp://239.3.1.68:4120
 古装剧场,rtp://239.3.1.69:4120
-Ando TV,http://play.kankanlive.com/live/1711956137852982.m3u8
-Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
-Beijing Traffic Radio TV [Geo-blocked],http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
-Beijing Youth Radio [Geo-blocked],http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
-Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
 精选高清,rtp://239.3.1.74:4120
 武侠剧场,rtp://239.3.1.90:4120
 喜剧影院,rtp://239.3.1.91:4120
@@ -43,19 +38,8 @@ Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
 星影高清,rtp://239.3.1.94:4120
 光影高清,rtp://239.3.1.84:4120
 动画高清,rtp://239.3.1.80:4120
-Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
-BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
-BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
-BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
-BRTV 北京卫视,http://118.81.195.79:9003/hls/20/index.m3u8
 经典电影,rtp://239.3.1.195:9024
-CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-CGTN (1080p),https://english-livebkali.cgtn.com/live/encgtn.m3u8
-CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
 group-title="数字" zz-definition="HD",重温经典,rtp://239.3.1.25:8001
 热播剧场,rtp://239.3.1.194:9020
 魅力时尚,rtp://239.3.1.196:9012
 少儿动画,rtp://239.3.1.199:9000
-Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
